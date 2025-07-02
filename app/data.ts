@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
     name: 'CVE-2025-21756: n-day analysis',
     description:
       'From a Use-After-Free in VSOCK to Local Privilege Escalation',
-    link: '/blog/cve-2025-21756-n-day-analysis',
+    link: 'https://hackmd.io/@ktranowl/H1XRm4zBxl',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4',
     id: 'project1',
