@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
     name: 'CVE-2025-21756: n-day analysis',
     description:
       'From a Use-After-Free in VSOCK to Local Privilege Escalation',
-    link: 'https://hackmd.io/m3q40BtyRA2Err50t9qX2g',
+    link: '/blog/cve-2025-21756-n-day-analysis',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4',
     id: 'project1',
@@ -67,7 +67,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     title: 'How to use Docker in binary exploit challenge',
     description: 'Automation of docker build and attach in solve.py script',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
+    link: 'https://hackmd.io/@blackpwner/S11lMQGwye',
     uid: 'blog-1',
   },
 ]
